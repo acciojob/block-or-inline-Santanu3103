@@ -1,2 +1,9 @@
-
+*{
+    margin: 0;
+    padding: 0;
+}
+button{
+    width: 7rem;
+    height: 3rem;
+}
 /* Your CSS Code here. */
